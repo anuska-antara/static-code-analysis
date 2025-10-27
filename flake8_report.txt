@@ -1,0 +1,17 @@
+inventory_system.py:8:1: E302 expected 2 blank lines, found 1
+inventory_system.py:8:50: E262 inline comment should start with '# '
+inventory_system.py:8:80: E501 line too long (87 > 79 characters)
+inventory_system.py:10:21: W291 trailing whitespace
+inventory_system.py:15:80: E501 line too long (81 > 79 characters)
+inventory_system.py:19:62: E262 inline comment should start with '# '
+inventory_system.py:19:80: E501 line too long (95 > 79 characters)
+inventory_system.py:21:1: E302 expected 2 blank lines, found 1
+inventory_system.py:27:23: E262 inline comment should start with '# '
+inventory_system.py:30:1: E302 expected 2 blank lines, found 1
+inventory_system.py:34:1: E302 expected 2 blank lines, found 1
+inventory_system.py:45:1: E302 expected 2 blank lines, found 1
+inventory_system.py:51:1: E302 expected 2 blank lines, found 1
+inventory_system.py:57:1: E302 expected 2 blank lines, found 1
+inventory_system.py:61:1: E302 expected 2 blank lines, found 1
+inventory_system.py:75:1: E305 expected 2 blank lines after class or function definition, found 1
+inventory_system.py:76:11: W292 no newline at end of file
